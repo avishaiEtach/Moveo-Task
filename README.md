@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Moveo-Task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+the project is a looper cloune that start puse and loop a audio fills
+
+
+## Features
+
+### play button 
+
+by click the start button all the audio wiil start to play
+
+### stop button 
+
+by click the stop button all the audio wiil stop payling and go to the begining
+
+### loop button 
+
+by click the loop all audio start looping until you pushe the loop by cilicking again on the loop button
+
+### mute toggle 
+
+by click the  mute toggle you can mute the audio that you click on
+
 
 ## Available Scripts
 
