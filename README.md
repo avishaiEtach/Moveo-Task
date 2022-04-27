@@ -4,15 +4,15 @@ Check here: [https://MoveoTsetAvishaietach//](https://phenomenal-biscotti-da1848
 
 ## Description
 
-A looper cloune thaht can play,stop and loop all the audio filles.
+A looper clone that can play,stop and loop all the audio files.
 
 ## Features 
 
-1. `play button` - when you click on the play button all the audio filles wiil start to play.
-2. `stop button` - when you click on the stop button all the audio filles wiil stop to play and resat to the beging .
-3. `loop button` - when you click on the loop button all the audio filles wiil start to loop wiil palying i you whent to stop the loop you can click again on the loop     button .
-4. `mute toggle` - when you click on the mute toggle you mute the audio that you clilck on if you whent to unmute thr audio you can clilck on the toggle again.
-5. ***all the toggls and buttons can by active wiil payling the audios***.
+1. `play button` - when you click on the play button all the audio files will start to play.
+2. `stop button` - when you click on the stop button all the audio files will stop to play and resat to the beging .
+3. `loop button` - when the loop button is active, then when the playing of the sound files ends, it will start all over again until this button will be inactive.
+4. `mute toggle` - when you click on the mute toggle you mute the audio that you click on. If you want to unmute the audio you can click on the toggle button again.
+5. ***all the toggles and buttons can by active will playing the audios***.
 
 ## Technologies
 
